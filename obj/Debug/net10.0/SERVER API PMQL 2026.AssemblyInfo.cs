@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SERVER API PMQL 2026")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c9b79aa2268a376b8c5f4dae52d06ec5ccc602d0")]
 [assembly: System.Reflection.AssemblyProductAttribute("SERVER API PMQL 2026")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SERVER API PMQL 2026")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

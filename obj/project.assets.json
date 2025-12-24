@@ -1447,23 +1447,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\nthun\\.nuget\\packages\\": {},
+    "C:\\Users\\Admin\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nthun\\OneDrive\\Desktop\\SERVER API PMQL 2026\\SERVER API PMQL 2026.csproj",
+      "projectUniqueName": "F:\\SERVER-API-PMQL\\SERVER API PMQL 2026.csproj",
       "projectName": "SERVER API PMQL 2026",
-      "projectPath": "C:\\Users\\nthun\\OneDrive\\Desktop\\SERVER API PMQL 2026\\SERVER API PMQL 2026.csproj",
-      "packagesPath": "C:\\Users\\nthun\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nthun\\OneDrive\\Desktop\\SERVER API PMQL 2026\\obj\\",
+      "projectPath": "F:\\SERVER-API-PMQL\\SERVER API PMQL 2026.csproj",
+      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+      "outputPath": "F:\\SERVER-API-PMQL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\nthun\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
