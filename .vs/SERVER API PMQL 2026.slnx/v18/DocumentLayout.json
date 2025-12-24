@@ -1,0 +1,242 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nthun\\OneDrive\\Desktop\\SERVER API PMQL 2026\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{453B138E-4408-4A42-83A1-800C20395261}|SERVER API PMQL 2026.csproj|c:\\users\\nthun\\onedrive\\desktop\\server api pmql 2026\\repositories\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{453B138E-4408-4A42-83A1-800C20395261}|SERVER API PMQL 2026.csproj|solutionrelative:repositories\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{453B138E-4408-4A42-83A1-800C20395261}|SERVER API PMQL 2026.csproj|c:\\users\\nthun\\onedrive\\desktop\\server api pmql 2026\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{453B138E-4408-4A42-83A1-800C20395261}|SERVER API PMQL 2026.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{453B138E-4408-4A42-83A1-800C20395261}|SERVER API PMQL 2026.csproj|c:\\users\\nthun\\onedrive\\desktop\\server api pmql 2026\\server api pmql 2026.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{453B138E-4408-4A42-83A1-800C20395261}|SERVER API PMQL 2026.csproj|solutionrelative:server api pmql 2026.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{453B138E-4408-4A42-83A1-800C20395261}|SERVER API PMQL 2026.csproj|c:\\users\\nthun\\onedrive\\desktop\\server api pmql 2026\\controllers\\logincontroler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{453B138E-4408-4A42-83A1-800C20395261}|SERVER API PMQL 2026.csproj|solutionrelative:controllers\\logincontroler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{453B138E-4408-4A42-83A1-800C20395261}|SERVER API PMQL 2026.csproj|c:\\users\\nthun\\onedrive\\desktop\\server api pmql 2026\\services\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{453B138E-4408-4A42-83A1-800C20395261}|SERVER API PMQL 2026.csproj|solutionrelative:services\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{453B138E-4408-4A42-83A1-800C20395261}|SERVER API PMQL 2026.csproj|c:\\users\\nthun\\onedrive\\desktop\\server api pmql 2026\\models\\response\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{453B138E-4408-4A42-83A1-800C20395261}|SERVER API PMQL 2026.csproj|solutionrelative:models\\response\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{453B138E-4408-4A42-83A1-800C20395261}|SERVER API PMQL 2026.csproj|c:\\users\\nthun\\onedrive\\desktop\\server api pmql 2026\\models\\request\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{453B138E-4408-4A42-83A1-800C20395261}|SERVER API PMQL 2026.csproj|solutionrelative:models\\request\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{453B138E-4408-4A42-83A1-800C20395261}|SERVER API PMQL 2026.csproj|c:\\users\\nthun\\onedrive\\desktop\\server api pmql 2026\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{453B138E-4408-4A42-83A1-800C20395261}|SERVER API PMQL 2026.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{453B138E-4408-4A42-83A1-800C20395261}|SERVER API PMQL 2026.csproj|c:\\users\\nthun\\onedrive\\desktop\\server api pmql 2026\\models\\entity\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{453B138E-4408-4A42-83A1-800C20395261}|SERVER API PMQL 2026.csproj|solutionrelative:models\\entity\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{453B138E-4408-4A42-83A1-800C20395261}|SERVER API PMQL 2026.csproj|c:\\users\\nthun\\onedrive\\desktop\\server api pmql 2026\\models\\interfaces\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{453B138E-4408-4A42-83A1-800C20395261}|SERVER API PMQL 2026.csproj|solutionrelative:models\\interfaces\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{453B138E-4408-4A42-83A1-800C20395261}|SERVER API PMQL 2026.csproj|c:\\users\\nthun\\onedrive\\desktop\\server api pmql 2026\\data\\dbconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{453B138E-4408-4A42-83A1-800C20395261}|SERVER API PMQL 2026.csproj|solutionrelative:data\\dbconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{453B138E-4408-4A42-83A1-800C20395261}|SERVER API PMQL 2026.csproj|c:\\users\\nthun\\onedrive\\desktop\\server api pmql 2026\\helpers\\filelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{453B138E-4408-4A42-83A1-800C20395261}|SERVER API PMQL 2026.csproj|solutionrelative:helpers\\filelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{453B138E-4408-4A42-83A1-800C20395261}|SERVER API PMQL 2026.csproj|c:\\users\\nthun\\onedrive\\desktop\\server api pmql 2026\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{453B138E-4408-4A42-83A1-800C20395261}|SERVER API PMQL 2026.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginControler.cs",
+              "DocumentMoniker": "C:\\Users\\nthun\\OneDrive\\Desktop\\SERVER API PMQL 2026\\Controllers\\LoginControler.cs",
+              "RelativeDocumentMoniker": "Controllers\\LoginControler.cs",
+              "ToolTip": "C:\\Users\\nthun\\OneDrive\\Desktop\\SERVER API PMQL 2026\\Controllers\\LoginControler.cs",
+              "RelativeToolTip": "Controllers\\LoginControler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T20:09:49.659Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nthun\\OneDrive\\Desktop\\SERVER API PMQL 2026\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\nthun\\OneDrive\\Desktop\\SERVER API PMQL 2026\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T20:52:37.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SERVER API PMQL 2026.http",
+              "DocumentMoniker": "C:\\Users\\nthun\\OneDrive\\Desktop\\SERVER API PMQL 2026\\SERVER API PMQL 2026.http",
+              "RelativeDocumentMoniker": "SERVER API PMQL 2026.http",
+              "ToolTip": "C:\\Users\\nthun\\OneDrive\\Desktop\\SERVER API PMQL 2026\\SERVER API PMQL 2026.http",
+              "RelativeToolTip": "SERVER API PMQL 2026.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-12-23T19:31:27.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginService.cs",
+              "DocumentMoniker": "C:\\Users\\nthun\\OneDrive\\Desktop\\SERVER API PMQL 2026\\Services\\LoginService.cs",
+              "RelativeDocumentMoniker": "Services\\LoginService.cs",
+              "ToolTip": "C:\\Users\\nthun\\OneDrive\\Desktop\\SERVER API PMQL 2026\\Services\\LoginService.cs",
+              "RelativeToolTip": "Services\\LoginService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T23:22:57.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginResponse.cs",
+              "DocumentMoniker": "C:\\Users\\nthun\\OneDrive\\Desktop\\SERVER API PMQL 2026\\Models\\Response\\LoginResponse.cs",
+              "RelativeDocumentMoniker": "Models\\Response\\LoginResponse.cs",
+              "ToolTip": "C:\\Users\\nthun\\OneDrive\\Desktop\\SERVER API PMQL 2026\\Models\\Response\\LoginResponse.cs",
+              "RelativeToolTip": "Models\\Response\\LoginResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T23:21:32.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountRepository.cs",
+              "DocumentMoniker": "C:\\Users\\nthun\\OneDrive\\Desktop\\SERVER API PMQL 2026\\Repositories\\AccountRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\AccountRepository.cs",
+              "ToolTip": "C:\\Users\\nthun\\OneDrive\\Desktop\\SERVER API PMQL 2026\\Repositories\\AccountRepository.cs",
+              "RelativeToolTip": "Repositories\\AccountRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T19:46:14.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\nthun\\OneDrive\\Desktop\\SERVER API PMQL 2026\\Models\\Request\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "Models\\Request\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\nthun\\OneDrive\\Desktop\\SERVER API PMQL 2026\\Models\\Request\\LoginRequest.cs",
+              "RelativeToolTip": "Models\\Request\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T23:21:33.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\nthun\\OneDrive\\Desktop\\SERVER API PMQL 2026\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\nthun\\OneDrive\\Desktop\\SERVER API PMQL 2026\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-23T20:57:01.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\nthun\\OneDrive\\Desktop\\SERVER API PMQL 2026\\Models\\Entity\\Account.cs",
+              "RelativeDocumentMoniker": "Models\\Entity\\Account.cs",
+              "ToolTip": "C:\\Users\\nthun\\OneDrive\\Desktop\\SERVER API PMQL 2026\\Models\\Entity\\Account.cs",
+              "RelativeToolTip": "Models\\Entity\\Account.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T19:43:00.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IAccountRepository.cs",
+              "DocumentMoniker": "C:\\Users\\nthun\\OneDrive\\Desktop\\SERVER API PMQL 2026\\Models\\Interfaces\\IAccountRepository.cs",
+              "RelativeDocumentMoniker": "Models\\Interfaces\\IAccountRepository.cs",
+              "ToolTip": "C:\\Users\\nthun\\OneDrive\\Desktop\\SERVER API PMQL 2026\\Models\\Interfaces\\IAccountRepository.cs",
+              "RelativeToolTip": "Models\\Interfaces\\IAccountRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T19:50:57.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "dbConnect.cs",
+              "DocumentMoniker": "C:\\Users\\nthun\\OneDrive\\Desktop\\SERVER API PMQL 2026\\Data\\dbConnect.cs",
+              "RelativeDocumentMoniker": "Data\\dbConnect.cs",
+              "ToolTip": "C:\\Users\\nthun\\OneDrive\\Desktop\\SERVER API PMQL 2026\\Data\\dbConnect.cs",
+              "RelativeToolTip": "Data\\dbConnect.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T20:55:00.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FileLogger.cs",
+              "DocumentMoniker": "C:\\Users\\nthun\\OneDrive\\Desktop\\SERVER API PMQL 2026\\Helpers\\FileLogger.cs",
+              "RelativeDocumentMoniker": "Helpers\\FileLogger.cs",
+              "ToolTip": "C:\\Users\\nthun\\OneDrive\\Desktop\\SERVER API PMQL 2026\\Helpers\\FileLogger.cs",
+              "RelativeToolTip": "Helpers\\FileLogger.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T22:45:16.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\nthun\\OneDrive\\Desktop\\SERVER API PMQL 2026\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\nthun\\OneDrive\\Desktop\\SERVER API PMQL 2026\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-23T20:55:06.211Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
